@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: #ccc 2px 2px 2px;
+}
+
+#div_g {
+  width: 90vw;
+  height: 90vh;
+  margin: auto;
+  border: 2px solid black;
+}
+
+#div_g .dygraph-label {
+  font-family: Georgia, Verdana, serif;
+}
+
+#div_g .dygraph-title {
+  font-size: 30px;
+}
